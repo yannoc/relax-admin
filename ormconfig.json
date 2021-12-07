@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "117.50.162.154",
+  "port": 3306,
+  "username": "relax",
+  "password": "Relax@2021",
+  "database": "relax_db",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
